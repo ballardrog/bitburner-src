@@ -17,5 +17,5 @@ number
 
 ## Remarks
 
-RAM cost: 0 GB Requires BitNode 14.2 to use
+RAM cost: 1 GB Requires BitNode 14.2 to use
 

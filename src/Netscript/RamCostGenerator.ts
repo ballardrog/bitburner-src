@@ -272,7 +272,7 @@ const go = {
   },
   cheat: {
     getCheatSuccessChance: 1,
-    getCheatCount: 0,
+    getCheatCount: 1,
     removeRouter: 8,
     playTwoMoves: 8,
     repairOfflineNode: 8,

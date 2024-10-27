@@ -4405,7 +4405,7 @@ export interface GoCheat {
    * Returns the number of times you've attempted to cheat in the current game.
    *
    * @remarks
-   * RAM cost: 0 GB
+   * RAM cost: 1 GB
    * Requires BitNode 14.2 to use
    */
   getCheatCount(): number;
